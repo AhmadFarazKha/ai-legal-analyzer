@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#8A2BE2" # A bright blue-violet for primary elements (legal/insight)
+backgroundColor="#121212" # Very dark background
+secondaryBackgroundColor="#1C1C1C" # Slightly lighter dark gray for components
+textColor="#FFFFFF" # White text
+font="sans serif"
